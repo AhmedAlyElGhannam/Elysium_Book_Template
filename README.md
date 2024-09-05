@@ -1,5 +1,5 @@
 # Elysium_Book_Template
-LaTeX book template combining elements of Ricardo Langner's Clean Thesis, Daan Zwaneveld's tudelft-report-thesis-template, and adding my own wicked mix to fit my needs.
+This is the LaTeX book template I have "created"---more like assembled XDD---for my graduation project documentation. This repository's purpose is to keep it in a functional state and to make it easier for myself to reuse it cuz I will probably forgot how I made it XDD.
 
 # Main Document Components
 1. `main.tex`: Main file in the document; the file that you will compile.
