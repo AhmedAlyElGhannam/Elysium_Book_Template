@@ -1,0 +1,91 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\nonumberline List of Figures}{xi}{chapter*.4}%
+\contentsline {chapter}{\nonumberline List of Tables}{xiii}{chapter*.5}%
+\contentsline {chapter}{\nonumberline Listings}{xv}{chapter*.6}%
+\contentsline {chapter}{Nomenclature}{xvii}{chapter*.7}%
+\contentsline {part}{\numberline {I}Overview}{xix}{part.1}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Problem Statement}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Specifications}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Development Objectives}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Proposed System Architecture}{3}{section.1.4}%
+\contentsline {part}{\numberline {II}System Infrastructure}{5}{part.2}%
+\contentsline {chapter}{\numberline {2}Electrical Infrastructure}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Development Objectives}{7}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Design Approach}{7}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Proposed Design}{8}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Battery Pack}{8}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Battery Management System}{9}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Power Distribution}{14}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Auxiliary Boards}{15}{subsection.2.4.4}%
+\contentsline {section}{\numberline {2.5}Output}{16}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Schematics}{16}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}PCB Designs}{19}{subsection.2.5.2}%
+\contentsline {chapter}{\numberline {3}Sensing \& Control}{23}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{23}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Development Objectives}{23}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Used Components and Software Tools}{24}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Design and Development Strategy}{25}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Ultrasonic Implementation}{25}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}MPU6050 Implementation}{26}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Encoder Implementation}{27}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Publishing Data}{30}{subsection.3.4.4}%
+\contentsline {section}{\numberline {3.5}Output}{31}{section.3.5}%
+\contentsline {part}{\numberline {III}Central Processing Node}{33}{part.3}%
+\contentsline {chapter}{\numberline {4}Communication Hub}{35}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Development Objectives}{35}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Proposed Communication Model}{35}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Upwards Communication}{36}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Downwards Communication}{39}{subsection.4.2.2}%
+\contentsline {chapter}{\numberline {5}Indoor Localization}{43}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Development Objectives}{43}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Methods of Localization}{43}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Odometry}{44}{subsection.5.2.1}%
+\contentsline {subsubsection}{\nonumberline Forward Kinematics}{44}{subsubsection*.43}%
+\contentsline {subsubsection}{\nonumberline Inverse Kinematics}{44}{subsubsection*.45}%
+\contentsline {subsubsection}{\nonumberline Sensor Fusion using EKF}{44}{subsubsection*.47}%
+\contentsline {subsection}{\numberline {5.2.2}Visible Light Communication:}{45}{subsection.5.2.2}%
+\contentsline {part}{\numberline {IV}Results \& Conclusion}{49}{part.4}%
+\contentsline {chapter}{\numberline {6}System Operation}{51}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Introduction}{51}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Step 1: Install Dependencies on Server}{51}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Step 2: Install dependencies on the SBC}{55}{section.6.3}%
+\contentsline {subsubsection}{\nonumberline Setup for Dashboard Back-End}{55}{subsubsection*.55}%
+\contentsline {subsubsection}{\nonumberline Setup for ROS scripts}{55}{subsubsection*.57}%
+\contentsline {section}{\numberline {6.4}Step 3: Start Web Server Components}{57}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Step 4: Start SBC Components}{58}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}Starting Dashboard Back-End}{58}{subsection.6.5.1}%
+\contentsline {subsection}{\numberline {6.5.2}Starting ROS Environment}{58}{subsection.6.5.2}%
+\contentsline {section}{\numberline {6.6}Step 5: Use The Application}{60}{section.6.6}%
+\contentsline {chapter}{\numberline {7}Conclusion \& Future Work}{63}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Observing The Final Version}{63}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Future Improvements}{64}{section.7.2}%
+\contentsline {chapter}{\nonumberline Bibliography}{65}{chapter*.60}%
+\contentsline {chapter}{\numberline {A}List of Materials}{A1}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Boards}{A1}{section.A.1}%
+\contentsline {subsection}{\numberline {A.1.1}Sensors Board}{A1}{subsection.A.1.1}%
+\contentsline {subsection}{\numberline {A.1.2}Actuators' Board}{A2}{subsection.A.1.2}%
+\contentsline {subsection}{\numberline {A.1.3}Power Distribution Board}{A2}{subsection.A.1.3}%
+\contentsline {subsection}{\numberline {A.1.4}Battery Management System}{A3}{subsection.A.1.4}%
+\contentsline {subsection}{\numberline {A.1.5}Motion Board}{A5}{subsection.A.1.5}%
+\contentsline {subsection}{\numberline {A.1.6}VLC Receiver Board}{A6}{subsection.A.1.6}%
+\contentsline {chapter}{\numberline {B}Theoretical Background -- Sensors \& PID}{B1}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Encoders}{B1}{section.B.1}%
+\contentsline {subsection}{\numberline {B.1.1}Technologies used in Encoders}{B1}{subsection.B.1.1}%
+\contentsline {subsection}{\numberline {B.1.2}Basic types}{B2}{subsection.B.1.2}%
+\contentsline {subsection}{\numberline {B.1.3}Encoder Resolution Parameters}{B2}{subsection.B.1.3}%
+\contentsline {subsection}{\numberline {B.1.4}Encoder Working Principle}{B3}{subsection.B.1.4}%
+\contentsline {section}{\numberline {B.2}IMU (Inertial Measurement Units)}{B4}{section.B.2}%
+\contentsline {subsection}{\numberline {B.2.1}MPU6050 Module}{B4}{subsection.B.2.1}%
+\contentsline {section}{\numberline {B.3}Ultrasonic}{B6}{section.B.3}%
+\contentsline {section}{\numberline {B.4}PID Control}{B7}{section.B.4}%
+\contentsline {subsection}{\numberline {B.4.1}Introduction}{B7}{subsection.B.4.1}%
+\contentsline {subsection}{\numberline {B.4.2}Overview of PID Control}{B8}{subsection.B.4.2}%
+\contentsline {subsection}{\numberline {B.4.3}Discrete PID Controller}{B8}{subsection.B.4.3}%
+\contentsline {subsection}{\numberline {B.4.4}IMC Tuning Correlations}{B9}{subsection.B.4.4}%
+\contentsline {subsection}{\numberline {B.4.5}Optional Derivative Filter}{B9}{subsection.B.4.5}%
+\contentsline {subsection}{\numberline {B.4.6}Simple Tuning Rules}{B10}{subsection.B.4.6}%
+\contentsline {subsection}{\numberline {B.4.7}Anti-Reset Windup}{B10}{subsection.B.4.7}%
+\contentsline {subsection}{\numberline {B.4.8}Derivative kick}{B10}{subsection.B.4.8}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

@@ -1,0 +1,59 @@
+\babel@toc {english}{}\relax 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Block Diagram That Depicts System Architecture}}{3}{figure.caption.10}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces The Block Diagram for Power Management.}}{8}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Hybrid cell configurations in a pack.}}{9}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces The block diagram of the suggested BMS}}{10}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Voltage Measurement Using Voltage Divider.}}{10}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces The voltage drop method of current measurement.}}{11}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Improved Current Measurement Using Voltage Drop Method.}}{11}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Temperature Measurement Using Op-Amp.\cite {op_amp_temperature}}}{12}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Simulating the Cell-Balancing Circuit on LTSpice}}{13}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces The results of simulation. $Vin_1$ in green, Current through $R_4$ in red.}}{13}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Improved Reverse Polarity Protection}}{14}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces The used buck converter based on XL4016}}{15}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces BMS Board Schematic -- Voltage Conversion for controller (Top) Measurement Modules and Protection Module (Bottom)}}{16}{figure.caption.22}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces BMS Board Schematic -- Cell-Balancing circuit ESP32 Controller}}{16}{figure.caption.23}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Power Distribution Board Schematic}}{16}{figure.caption.24}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Sensors Board Schematic -- First Part}}{17}{figure.caption.25}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Sensors Board Schematic -- Second Part}}{17}{figure.caption.26}%
+\contentsline {figure}{\numberline {2.17}{\ignorespaces Actuator Board Schematic}}{17}{figure.caption.27}%
+\contentsline {figure}{\numberline {2.18}{\ignorespaces Motion Board Schematic -- First Part}}{18}{figure.caption.28}%
+\contentsline {figure}{\numberline {2.19}{\ignorespaces Motion Board Schematic -- Second Part}}{18}{figure.caption.29}%
+\contentsline {figure}{\numberline {2.20}{\ignorespaces VLC Receiver Board Schematic}}{18}{figure.caption.30}%
+\contentsline {figure}{\numberline {2.21}{\ignorespaces BMS Board PCB}}{19}{figure.caption.31}%
+\contentsline {figure}{\numberline {2.22}{\ignorespaces Power Distribution Board PCB}}{19}{figure.caption.32}%
+\contentsline {figure}{\numberline {2.23}{\ignorespaces Sensors Board PCB}}{20}{figure.caption.33}%
+\contentsline {figure}{\numberline {2.24}{\ignorespaces Actuator Board PCB}}{20}{figure.caption.34}%
+\contentsline {figure}{\numberline {2.25}{\ignorespaces Motion Board PCB}}{21}{figure.caption.35}%
+\contentsline {figure}{\numberline {2.26}{\ignorespaces VLC Receiver Board PCB}}{21}{figure.caption.36}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Used Microcontroller}}{24}{figure.caption.37}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Encoders' Readings Sent Via ROSSerial and Displayed in Terminal}}{31}{figure.caption.38}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces IMU' Readings Sent Via ROSSerial and Displayed in Terminal}}{31}{figure.caption.39}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Stereo camera}}{39}{figure.caption.40}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Communication Between ROS Nodes}}{40}{figure.caption.41}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces The Block Diagram for The Used VLC system}}{45}{figure.caption.48}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces BPW34 Photodiode}}{45}{figure.caption.49}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces The Transimpedance Amplifier Stage of The Implemented Receiver}}{46}{figure.caption.50}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces The second stage of the receiver: Non-inverting Amplifier (Left) and inverting Schmitt Trigger (Right)}}{47}{figure.caption.51}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Simulating The second phase of the receiver on LTSpice.}}{47}{figure.caption.52}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces The results of simulation.}}{47}{figure.caption.53}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Sign-up screen}}{60}{figure.caption.58}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Sign-in screen}}{60}{figure.caption.59}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Pulses per Revolution Diagram}}{B3}{figure.caption.61}%
+\contentsline {figure}{\numberline {B.2}{\ignorespaces Encoder Output Signals}}{B3}{figure.caption.62}%
+\contentsline {figure}{\numberline {B.3}{\ignorespaces MPU6050 Module}}{B4}{figure.caption.63}%
+\contentsline {figure}{\numberline {B.4}{\ignorespaces MPU-6050 3-Axis Gyroscope}}{B5}{figure.caption.64}%
+\contentsline {figure}{\numberline {B.5}{\ignorespaces MPU-6050 3-Axis Accelerometer}}{B5}{figure.caption.65}%
+\contentsline {figure}{\numberline {B.6}{\ignorespaces Ultrasonic Module}}{B6}{figure.caption.66}%
+\contentsline {figure}{\numberline {B.7}{\ignorespaces Ultrasonic sensor diagram}}{B7}{figure.caption.67}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
