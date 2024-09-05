@@ -77,4 +77,15 @@ LaTeX book template combining elements of Ricardo Langner's Clean Thesis, Daan Z
    ```
 
 # Back Matter
-   
+
+## Bibliography
+1. Add your references in `bibTeX` form to the file `References.bib`.
+2. Cite your added references using `\cite{ref-nickname}`.
+3. **VIMP**: Make sure to NOT use an underscore in any of the labels/commands cuz it makes LaTeX go nuts.
+
+## Appendices
+1. They can be found in `03-BackMatter`.
+
+## Colophon
+1. Can be found in `03-BackMatter/Colophon.tex`.
+2. It can be either a publisher info or a meme as I wrote.
