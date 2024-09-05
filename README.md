@@ -8,6 +8,7 @@ LaTeX book template combining elements of Ricardo Langner's Clean Thesis, Daan Z
 4. `FrontMatter.tex`: Contains `TitlePageListOfAuthors.tex`, `acknowledgement.tex`, `abstract.tex`, `tableofcontents.tex`, `listoffigures.tex`, `listoftables.tex`, `listoflistings.tex`, and `nomenclature.tex`.
 5. `MainMatter.tex`: Contains parts and chapter files.
 6. `BackMatter.tex`: Contains `References.bib`, appendices, and `Colophon.tex`.
+7. The folder `606-ShadowRealm` is for banishing ChatGPT-generated text written by your colleagues!
 
 # Front Matter
 
